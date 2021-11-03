@@ -112,3 +112,10 @@ fieldset.grupo .campo {
 select {
     cursor: pointer;
 }
+
+.footer {
+    font-family: monospace;
+    position: absolute;
+    bottom: 2%;
+    width: 100%;
+}
